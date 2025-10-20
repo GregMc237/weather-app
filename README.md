@@ -1,11 +1,12 @@
-This project was completed as demonstration of my skills in React and Laravel.  
-The original code was intenationally incomplete or broken as the requirements was to fix the issues to a workable standard
+This project was completed as a demonstration of my skills in React and Laravel.  
+The original code was supplied intenationally incomplete or broken as the requirements for this demonstration was to fix the issues to a workable standard.
+
 <br/>
 <br/>
 
-With [The Weather App] users can search locations by city name and observe the weather. Includfes a 5-6 day forcast and 3 hour interval.
+With [The Weather App] users can search locations by city name and observe the weather. Includes a 5-6 day weather forcast and a 3 hour interval.
 <br />
-The app is developed using React.js and material-UI.
+The app was developed using React.js and material-UI.
 
 <br/>
 

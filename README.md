@@ -4,7 +4,7 @@ The original code was supplied intenationally incomplete or broken as the requir
 <br/>
 <br/>
 
-With [The Weather App] users can search locations by city name and observe the weather. Includes a 5-6 day weather forcast and a 3 hour interval.
+With [The Weather App] users can search locations by city name and observe the weather. Includes a 5-6 day weather forecast and a 3 hour interval.
 <br />
 The app was developed using React.js and material-UI.
 

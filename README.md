@@ -38,7 +38,7 @@ git clone https://github.com/GregMc237/weather-app.git
 - `react-js`
 - `material-ui`
 
-Check `packages.json` for details
+Check `packages.json` for further details
 
 <br/>
 

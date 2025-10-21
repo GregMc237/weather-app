@@ -1,5 +1,6 @@
-This project was completed as a demonstration of my skills in React and Laravel.  
-The original code was supplied intenationally incomplete or broken as the requirements for this demonstration was to fix the issues to a workable standard.
+This project was completed as a code review demonstration of my skills in React and Laravel.  
+The original code supplied for review was intenationally incomplete and/or broken.  The requirement for the code review demonstration was to identify and fix all the issues to a workable standard.
+This source code is the result.
 
 <br/>
 <br/>
